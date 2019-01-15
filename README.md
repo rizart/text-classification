@@ -5,7 +5,7 @@ Each folder contains a Makefile with some options:
   * option **run** runs the python script
   * option **pep8** formats the python scripts to be PEP8 compliant (more [here](https://www.python.org/dev/peps/pep-0008/))
   * option **clean** removes any script generated files (results, images, etc.)
-  * some folders contain a <test> option for testing purposes, this indicates algorithms to take as input less data (1000 documents) to run faster
+  * some folders contain a **test** option for testing purposes, this indicates algorithms to take as input less data (1000 documents) to run faster
 
 IMPORTANT NOTES:
 
