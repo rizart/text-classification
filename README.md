@@ -1,4 +1,6 @@
 Text classification and clustering using scikit-learn.
+------
+
 
 Each folder contains a Makefile with some options:
 
